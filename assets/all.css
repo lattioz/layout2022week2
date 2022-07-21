@@ -49,9 +49,10 @@ table {
 
 
 
-*{
+/* *{
 	outline: 1px #000 solid;
 }
+*/
 
 body{
 	font-family: "Roboto", sans-serif;
